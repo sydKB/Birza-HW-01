@@ -22,6 +22,7 @@ header h1 {
 }
 
 header h1 .seo {
+    /*This class changes the color of the letters "seo" from the word "Horiseon" in the header!*/
     color: #d9dcd6;
 }
 
@@ -47,6 +48,7 @@ a {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    /*The following lines allow the linked image to cover the background in the deployed site*/
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
@@ -63,6 +65,7 @@ a {
 }
 
 .content {
+    /*This class is used in the section containing the three linked article elements*/
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -89,6 +92,7 @@ article img {
 }
 
 .benefits {
+    /*This class is used for the aside*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
