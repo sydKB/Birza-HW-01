@@ -1,8 +1,9 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-## Link to the page
+## Page link and preview
 ### https://sydkb.github.io/Semantic-HTML/
-Inspect the HTML to see how I've refactored the starter code to be more semantic and up to accessibility standards. 
+Inspect the HTML to see how I've refactored the starter code to be more semantic and up to accessibility standards. The following image is a preview of the page.
+![start page preview](assets/start-page.png)
 
 ## Challenges in This Course
 
