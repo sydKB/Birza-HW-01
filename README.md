@@ -1,5 +1,9 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+## Link to the page
+### https://sydkb.github.io/Semantic-HTML/
+Inspect the HTML to see how I've refactored the starter code to be more semantic and up to accessibility standards. 
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
